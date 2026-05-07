@@ -4,7 +4,7 @@
 
 </div>
 
-# 🌸 Hi, I'm Mahak  
+# 🌜 Hi, I'm Mahak  
 ### *✨ A soft & curious junior in Python & Security ✨*
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧸 About me
+## 👀 About me
 
 I’m **Mahak Bahmani** — a young girl who fell in love with Python and now whispers to cybersecurity.
 
